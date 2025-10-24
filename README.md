@@ -32,7 +32,7 @@ To run this project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/ChaitanyaSai-Meka/Portfolio.git
+git clone https://github.com/Rahulguguloth/Portfolio.git
 
 # 3. Install dependencies
 npm install
